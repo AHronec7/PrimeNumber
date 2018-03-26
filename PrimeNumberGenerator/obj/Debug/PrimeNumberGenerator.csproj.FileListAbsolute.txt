@@ -1,0 +1,14 @@
+D:\C#\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe.config
+D:\C#\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe
+D:\C#\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.pdb
+D:\C#\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csproj.CoreCompileInputs.cache
+D:\C#\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.exe
+D:\C#\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.pdb
+D:\C#\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csprojResolveAssemblyReference.cache
+G:\C#\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe.config
+G:\C#\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe
+G:\C#\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.pdb
+G:\C#\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csprojResolveAssemblyReference.cache
+G:\C#\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csproj.CoreCompileInputs.cache
+G:\C#\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.exe
+G:\C#\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.pdb
